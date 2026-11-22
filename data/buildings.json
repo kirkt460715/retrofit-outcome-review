@@ -1,0 +1,119 @@
+{
+  "fields": [
+    "building",
+    "area",
+    "way",
+    "baseline_group"
+  ],
+  "key": "building",
+  "rows": [
+    {
+      "building": "B01",
+      "area": "D2",
+      "way": "R1",
+      "baseline_group": "D1"
+    },
+    {
+      "building": "B02",
+      "area": "D3",
+      "way": "R1",
+      "baseline_group": "D1"
+    },
+    {
+      "building": "B03",
+      "area": "D1",
+      "way": "R1",
+      "baseline_group": "D1"
+    },
+    {
+      "building": "B04",
+      "area": "D2",
+      "way": "R2",
+      "baseline_group": "D1"
+    },
+    {
+      "building": "B05",
+      "area": "D3",
+      "way": "R2",
+      "baseline_group": "D1"
+    },
+    {
+      "building": "B06",
+      "area": "D1",
+      "way": "R2",
+      "baseline_group": "D1"
+    },
+    {
+      "building": "B07",
+      "area": "D2",
+      "way": "R2",
+      "baseline_group": "D2"
+    },
+    {
+      "building": "B08",
+      "area": "D3",
+      "way": "R3",
+      "baseline_group": "D2"
+    },
+    {
+      "building": "B09",
+      "area": "D1",
+      "way": "R3",
+      "baseline_group": "D2"
+    },
+    {
+      "building": "B10",
+      "area": "D2",
+      "way": "R3",
+      "baseline_group": "D2"
+    },
+    {
+      "building": "B11",
+      "area": "D3",
+      "way": "R3",
+      "baseline_group": "D2"
+    },
+    {
+      "building": "B12",
+      "area": "D1",
+      "way": "R4",
+      "baseline_group": "D2"
+    },
+    {
+      "building": "B13",
+      "area": "D2",
+      "way": "R4",
+      "baseline_group": "D2"
+    },
+    {
+      "building": "B14",
+      "area": "D3",
+      "way": "R4",
+      "baseline_group": "D2"
+    },
+    {
+      "building": "B15",
+      "area": "D1",
+      "way": "R4",
+      "baseline_group": "D2"
+    },
+    {
+      "building": "B16",
+      "area": "D2",
+      "way": "R5",
+      "baseline_group": "D2"
+    },
+    {
+      "building": "B17",
+      "area": "D3",
+      "way": "R5",
+      "baseline_group": "D2"
+    },
+    {
+      "building": "B18",
+      "area": "D1",
+      "way": "R5",
+      "baseline_group": "D2"
+    }
+  ]
+}

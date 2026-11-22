@@ -1,0 +1,659 @@
+{
+  "fields": [
+    "person",
+    "building",
+    "floor",
+    "group"
+  ],
+  "key": "person",
+  "rows": [
+    {
+      "person": "H000",
+      "building": "B01",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H001",
+      "building": "B01",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H002",
+      "building": "B01",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H003",
+      "building": "B01",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H004",
+      "building": "B01",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H005",
+      "building": "B01",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H006",
+      "building": "B02",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H007",
+      "building": "B02",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H008",
+      "building": "B02",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H009",
+      "building": "B02",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H010",
+      "building": "B02",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H011",
+      "building": "B02",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H012",
+      "building": "B03",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H013",
+      "building": "B03",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H014",
+      "building": "B03",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H015",
+      "building": "B03",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H016",
+      "building": "B03",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H017",
+      "building": "B03",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H018",
+      "building": "B04",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H019",
+      "building": "B04",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H020",
+      "building": "B04",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H021",
+      "building": "B04",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H022",
+      "building": "B04",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H023",
+      "building": "B04",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H024",
+      "building": "B05",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H025",
+      "building": "B05",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H026",
+      "building": "B05",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H027",
+      "building": "B05",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H028",
+      "building": "B05",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H029",
+      "building": "B05",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H030",
+      "building": "B06",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H031",
+      "building": "B06",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H032",
+      "building": "B06",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H033",
+      "building": "B06",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H034",
+      "building": "B06",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H035",
+      "building": "B06",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H036",
+      "building": "B07",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H037",
+      "building": "B07",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H038",
+      "building": "B07",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H039",
+      "building": "B07",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H040",
+      "building": "B07",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H041",
+      "building": "B07",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H042",
+      "building": "B08",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H043",
+      "building": "B08",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H044",
+      "building": "B08",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H045",
+      "building": "B08",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H046",
+      "building": "B08",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H047",
+      "building": "B08",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H048",
+      "building": "B09",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H049",
+      "building": "B09",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H050",
+      "building": "B09",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H051",
+      "building": "B09",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H052",
+      "building": "B09",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H053",
+      "building": "B09",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H054",
+      "building": "B10",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H055",
+      "building": "B10",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H056",
+      "building": "B10",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H057",
+      "building": "B10",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H058",
+      "building": "B10",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H059",
+      "building": "B10",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H060",
+      "building": "B11",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H061",
+      "building": "B11",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H062",
+      "building": "B11",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H063",
+      "building": "B11",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H064",
+      "building": "B11",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H065",
+      "building": "B11",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H066",
+      "building": "B12",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H067",
+      "building": "B12",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H068",
+      "building": "B12",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H069",
+      "building": "B12",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H070",
+      "building": "B12",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H071",
+      "building": "B12",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H072",
+      "building": "B13",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H073",
+      "building": "B13",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H074",
+      "building": "B13",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H075",
+      "building": "B13",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H076",
+      "building": "B13",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H077",
+      "building": "B13",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H078",
+      "building": "B14",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H079",
+      "building": "B14",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H080",
+      "building": "B14",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H081",
+      "building": "B14",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H082",
+      "building": "B14",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H083",
+      "building": "B14",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H084",
+      "building": "B15",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H085",
+      "building": "B15",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H086",
+      "building": "B15",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H087",
+      "building": "B15",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H088",
+      "building": "B15",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H089",
+      "building": "B15",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H090",
+      "building": "B16",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H091",
+      "building": "B16",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H092",
+      "building": "B16",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H093",
+      "building": "B16",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H094",
+      "building": "B16",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H095",
+      "building": "B16",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H096",
+      "building": "B17",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H097",
+      "building": "B17",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H098",
+      "building": "B17",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H099",
+      "building": "B17",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H100",
+      "building": "B17",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H101",
+      "building": "B17",
+      "floor": "6",
+      "group": "ordinary"
+    },
+    {
+      "person": "H102",
+      "building": "B18",
+      "floor": "1",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H103",
+      "building": "B18",
+      "floor": "2",
+      "group": "ordinary"
+    },
+    {
+      "person": "H104",
+      "building": "B18",
+      "floor": "3",
+      "group": "ordinary"
+    },
+    {
+      "person": "H105",
+      "building": "B18",
+      "floor": "4",
+      "group": "mobility_record"
+    },
+    {
+      "person": "H106",
+      "building": "B18",
+      "floor": "5",
+      "group": "ordinary"
+    },
+    {
+      "person": "H107",
+      "building": "B18",
+      "floor": "6",
+      "group": "ordinary"
+    }
+  ]
+}

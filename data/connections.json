@@ -1,0 +1,41 @@
+{
+  "fields": [
+    "id",
+    "building",
+    "way",
+    "valid_from",
+    "valid_until",
+    "first_floor",
+    "last_floor"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "C01",
+      "building": "B04",
+      "way": "R1",
+      "valid_from": "2026-04-06",
+      "valid_until": "",
+      "first_floor": "2",
+      "last_floor": "6"
+    },
+    {
+      "id": "C02",
+      "building": "B08",
+      "way": "R2",
+      "valid_from": "2026-05-04",
+      "valid_until": "",
+      "first_floor": "1",
+      "last_floor": "6"
+    },
+    {
+      "id": "C03",
+      "building": "B09",
+      "way": "R3",
+      "valid_from": "2026-06-15",
+      "valid_until": "",
+      "first_floor": "3",
+      "last_floor": "4"
+    }
+  ]
+}

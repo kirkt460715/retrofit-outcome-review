@@ -1,0 +1,60 @@
+{
+  "fields": [
+    "id",
+    "state",
+    "building",
+    "way",
+    "path",
+    "kind",
+    "first_floor",
+    "last_floor",
+    "planned"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "N01",
+      "state": "issued",
+      "building": "B07",
+      "way": "R2",
+      "path": "P-X",
+      "kind": "rail",
+      "first_floor": "1",
+      "last_floor": "6",
+      "planned": "2026-07-13"
+    },
+    {
+      "id": "N02",
+      "state": "draft",
+      "building": "B08",
+      "way": "R2",
+      "path": "P-X",
+      "kind": "lift",
+      "first_floor": "2",
+      "last_floor": "6",
+      "planned": "2026-08-03"
+    },
+    {
+      "id": "N03",
+      "state": "draft",
+      "building": "B12",
+      "way": "R4",
+      "path": "P-Y",
+      "kind": "rail",
+      "first_floor": "1",
+      "last_floor": "4",
+      "planned": "2026-09-07"
+    },
+    {
+      "id": "N04",
+      "state": "amendment",
+      "building": "B07",
+      "way": "R2",
+      "path": "P-X",
+      "kind": "lift",
+      "first_floor": "2",
+      "last_floor": "4",
+      "planned": "2026-08-10"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "fields": [
+    "id",
+    "area",
+    "scope",
+    "start",
+    "end"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "X01",
+      "area": "D2",
+      "scope": "transport",
+      "start": "2026-04-13",
+      "end": "2026-05-18"
+    },
+    {
+      "id": "X02",
+      "area": "D3",
+      "scope": "yard_closure",
+      "start": "2026-06-01",
+      "end": "2026-07-06"
+    }
+  ]
+}
